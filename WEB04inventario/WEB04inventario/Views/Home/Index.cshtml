@@ -1,0 +1,31 @@
+﻿@model List<Model.Producto>
+
+
+@{
+    ViewBag.Title = "Productos";
+}
+
+<h2>Productos</h2>
+
+<table class="table table-striped ">
+    <thead>
+        <tr>
+            <th style="width:100px;">Nombre</th>
+            <th>Precio</th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var p in Model) {
+
+            <tr>
+                <td>@p.Nombre</td>
+                <td>@p.Precio_Unitario_Venta</td>
+               
+            </tr>
+        }
+
+    </tbody>
+</table>

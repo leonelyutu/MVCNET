@@ -1,0 +1,9 @@
+c:\users\leo\documents\visual studio 2015\Projects\WEB04inventario\Model\bin\Debug\Model.dll
+c:\users\leo\documents\visual studio 2015\Projects\WEB04inventario\Model\bin\Debug\Model.pdb
+c:\users\leo\documents\visual studio 2015\Projects\WEB04inventario\Model\bin\Debug\EntityFramework.dll
+c:\users\leo\documents\visual studio 2015\Projects\WEB04inventario\Model\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\leo\documents\visual studio 2015\Projects\WEB04inventario\Model\bin\Debug\EntityFramework.xml
+c:\users\leo\documents\visual studio 2015\Projects\WEB04inventario\Model\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\leo\documents\visual studio 2015\Projects\WEB04inventario\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\leo\documents\visual studio 2015\Projects\WEB04inventario\Model\obj\Debug\Model.dll
+c:\users\leo\documents\visual studio 2015\Projects\WEB04inventario\Model\obj\Debug\Model.pdb
